@@ -1,0 +1,11 @@
+ipywidgets
+jupyterlab
+jupytext
+matplotlib
+nodejs
+numpy
+pygmt
+pyproj
+scipy
+tqdm
+uncertainties
