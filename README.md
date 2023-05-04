@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afantunes74/compGeoBook/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/afantunes74/compGeoJB.git/master)
 
 # Welcome to the Computational Geosciences resource
 
